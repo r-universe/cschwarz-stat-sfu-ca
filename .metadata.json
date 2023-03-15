@@ -2,5 +2,9 @@
   {
     "package": "BTSPAS",
     "oncran": true
+  },
+  {
+    "package": "SPAS",
+    "oncran": true
   }
 ]

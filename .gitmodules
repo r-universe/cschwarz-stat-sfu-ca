@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BTSPAS"]
 	path = BTSPAS
 	url = https://github.com/cschwarz-stat-sfu-ca/btspas
-	shallow = true
-	registered = true
 [submodule "SPAS"]
 	path = SPAS
 	url = https://github.com/cschwarz-stat-sfu-ca/spas
-	shallow = true
-	registered = true

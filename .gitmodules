@@ -5,6 +5,9 @@
 [submodule "BTSPAS"]
 	path = BTSPAS
 	url = https://github.com/cschwarz-stat-sfu-ca/btspas
+[submodule "Petersen"]
+	path = Petersen
+	url = https://github.com/cschwarz-stat-sfu-ca/petersen
 [submodule "SPAS"]
 	path = SPAS
 	url = https://github.com/cschwarz-stat-sfu-ca/spas
